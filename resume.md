@@ -3,7 +3,7 @@ name: Pralay Patoria
 keywords: c++, FIX, algorithmic trading
 left-column:
     - 'Mobile: 908-365-4050'
-    - 'Email: [patoria.js@gmail.com](mainto:patoria.js@gmail.com)'
+    - 'Email: [patoria.js@gmail.com](mailto:patoria.js@gmail.com)'
     - '[LinkedIn Profile](https://www.linkedin.com/in/pralay-patoria-a5966a31)'
 ---
 
@@ -65,29 +65,29 @@ President.
   and cross-platform build.
 - Ported C++ framework for algorithmic trading to the EMEA environment,
   integrating market and static data services.
-- Designed and developed API for product lines to connect to exchange
+- Designed and developed API for product lines to connect to the exchange
   connectivity system.
 - Led team in designing and developing scalable client API for order management
   system.
 - Optimized algorithmic trading strategies to improve execution speed and reduce
   slippage.
 - Developed client application for compliance checking of orders.
-- Developed Short Sell Locate application used by stock loan desk to locate and
+- Developed Short Sell Locate application used by the stock loan desk to locate and
   approve US securities.
 
-## PREVIOUS EXPERIENCES
+## Previous Experiences
 - Senior Software Developer  | ITCAN Pte Ltd., Singapore                  | Nov' 08 - March' 12
 - Team Lead                  | Computech Enterprise Solutions (USA/India) | Jul' 05 - Oct' 08
 - Software Engineer          | Lambent Technologies Pvt. Ltd., Nagpur     | Mar' 04 - Mar' 05
 - Computer Lexicon Associate | MGAHV, Lucknow                             | Dec' 02 - Feb' 04
 
-**MAJOR PROJECTS:** Developed and maintained:-
-
-  - Post-trade feed applications that follow the Straight Through Process (STP)
-    to retrieve trade data from Bloomberg and other electronic exchanges using
-    the FIX Protocol.
-  - FixEngine, a generic library that implements FIX Protocol 4.2, managing the
-    session-level protocol and providing an interface for application messages.
+### Major Projects:
+- **Post-trade feeds:** Developed and maintained Post-trade feed applications
+    that follow the Straight Through Process (STP) to retrieve trade data from
+    Bloomberg and other electronic exchanges using the FIX Protocol.
+- **FixEngine:** Developed and maintained FixEngine, a generic library that
+    implements FIX Protocol 4.2, manages the session-level protocol and
+    providing an interface for application messages.
 
 # Education:
-Master of Computer Application | GHRIIT Nagpur University, India | Year 2002
+Master of Computer Applications | GHRIIT Nagpur University, India | Year 2002
