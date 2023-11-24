@@ -23,16 +23,16 @@ President.
 - Strong problem-solving and client relationship management skills.
 
 # Technical Skills
-- Languages: C++, C#, Python
-- Frameworks/Libraries: STL, BOOST, POCO, GTest, GMock, Catch2, FakeIt
-- Messaging Systems: UM/LBM, EMS, TIBCO Rendezvous
-- Scripting: Perl, Bash, Lua
-- Source Control: GIT, SVN, HG
-- Continuous Integration: TeamCity, Jenkins
-- Database Servers: Oracle 12g, Sybase 15 and 12.5, MySQL 5.0
-- Operating Systems: Linux, Windows
-- Tools: Conan, Make, CMake, Ninja, GDB
-- UML: Enterprise Architecture, Visio, PlantUML
+- Languages              : C++, C#, Python
+- Frameworks/Libraries   : STL, BOOST, POCO, GTest, GMock, Catch2, FakeIt
+- Messaging Systems      : UM/LBM, EMS, TIBCO Rendezvous
+- Scripting              : Perl, Bash, Lua
+- Source Control         : GIT, SVN, HG
+- Continuous Integration : TeamCity, Jenkins
+- Database Servers       : Oracle 12g, Sybase 15 and 12.5, MySQL 5.0
+- Operating Systems      : Linux, Windows
+- Tools                  : Conan, Make, CMake, Ninja, GDB
+- UML                    : Enterprise Architecture, Visio, PlantUML
 
 # Experience:
 ## Vice President and Senior Software Developer | BNP Paribas USA | Since December 2022
@@ -57,7 +57,7 @@ President.
   improve coding standards.
 
 ## Assistant Vice President and Senior Software Developer | Credit-Suisse USA | Mar 2012 - Jul 2022
-    - Sep' 18 – July' 22: Credit-Suisse NY, USA
+    - Sep'   18 – July' 22: Credit-Suisse NY, USA
     - April' 14 – August' 18: Credit-Suisse Wroclaw, Poland
     - March' 12 – March' 14: Credit-Suisse Pune, India
 - Implemented and enhanced C++ framework for algorithmic trading.
@@ -76,11 +76,10 @@ President.
   approve US securities.
 
 ## PREVIOUS EXPERIENCES
-- Senior Software Developer | ITCAN Pte Ltd., Singapore | Nov' 08 - March' 12
-- Team Lead | Computech Enterprise Solutions (USA/India) | Jul' 05 - Oct' 08
-- Software Engineer | Lambent Technologies Pvt. Ltd., Nagpur | Mar' 04 - Mar' 05
-- Computer Lexicon Associate (Software Developer** | Mahatma Gandhi
-  International University, Lucknow | Dec' 02 - Feb' 04
+- Senior Software Developer  | ITCAN Pte Ltd., Singapore                  | Nov' 08 - March' 12
+- Team Lead                  | Computech Enterprise Solutions (USA/India) | Jul' 05 - Oct' 08
+- Software Engineer          | Lambent Technologies Pvt. Ltd., Nagpur     | Mar' 04 - Mar' 05
+- Computer Lexicon Associate | MGAHV, Lucknow                             | Dec' 02 - Feb' 04
 
 **MAJOR PROJECTS:** Developed and maintained:-
 
