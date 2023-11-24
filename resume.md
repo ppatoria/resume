@@ -1,7 +1,11 @@
-**Pralay Patoria**
-
-    LinkedIn Profile: https://www.linkedin.com/in/pralay-patoria-a5966a31
-    908-365-4050 | patoria.js@gmail.com
+---
+name: Pralay Patoria
+keywords: c++, FIX, algorithmic trading
+left-column:
+    - 'Mobile: 908-365-4050'
+    - 'Email: [patoria.js@gmail.com](mainto:patoria.js@gmail.com)'
+    - '[LinkedIn Profile](https://www.linkedin.com/in/pralay-patoria-a5966a31)'
+---
 
 # Objective:
 Highly skilled and accomplished Senior Software Developer with around 18 years of experience in Investment Bank front office operations seeking a challenging position to utilize expertise in software development and leadership as a Vice President.
@@ -50,17 +54,16 @@ Highly skilled and accomplished Senior Software Developer with around 18 years o
 - Developed client application for compliance checking of orders.
 - Developed Short Sell Locate application used by stock loan desk to locate and approve US securities.
 
-## PREVIOUS EXPERIENCES (major projects)
+## PREVIOUS EXPERIENCES
 - Senior Software Developer | ITCAN Pte Ltd., Singapore | Nov' 08 - March' 12
 - Team Lead | Computech Enterprise Solutions (USA/India) | Jul' 05 - Oct' 08
 - Software Engineer | Lambent Technologies Pvt. Ltd., Nagpur | Mar' 04 - Mar' 05
 - Computer Lexicon Associate (Software Developer** | Mahatma Gandhi International University, Lucknow | Dec' 02 - Feb' 04
 
-### MAJOR PROJECTS
-Developed and maintained:
+**MAJOR PROJECTS:** Developed and maintained:-
 
-- Post-trade feed applications that follow the Straight Through Process (STP) to retrieve trade data from Bloomberg and other electronic exchanges using the FIX Protocol.
-- FixEngine, a generic library that implements FIX Protocol 4.2, managing the session-level protocol and providing an interface for application messages.
+  - Post-trade feed applications that follow the Straight Through Process (STP) to retrieve trade data from Bloomberg and other electronic exchanges using the FIX Protocol.
+  - FixEngine, a generic library that implements FIX Protocol 4.2, managing the session-level protocol and providing an interface for application messages.
 
 # Education:
 Master of Computer Application | GHRIIT Nagpur University, India | Year 2002
