@@ -35,7 +35,7 @@ President.
 - UML                    : Enterprise Architecture, Visio, PlantUML
 
 # Experience:
-## Vice President and Senior Software Developer | BNP Paribas USA | Since December 2022
+## Vice President - Algo Developer | BNP Paribas USA | Since December 2022
 - Part of front office executions team; involved in designing, developing, and
   implementing cutting-edge software solutions for Investment Bank front office
   operations.
@@ -57,9 +57,9 @@ President.
   improve coding standards.
 
 ## Assistant Vice President and Senior Software Developer | Credit-Suisse USA | Mar 2012 - Jul 2022
-    - Sep'   18 – July' 22: Credit-Suisse NY, USA
-    - April' 14 – August' 18: Credit-Suisse Wroclaw, Poland
-    - March' 12 – March' 14: Credit-Suisse Pune, India
+    - Sep'   18 – July' 22   : Credit-Suisse NY, USA
+    - April' 14 – August' 18 : Credit-Suisse Wroclaw, Poland
+    - March' 12 – March' 14  : Credit-Suisse Pune, India
 - Implemented and enhanced C++ framework for algorithmic trading.
 - Migrated the build system to Conan/CMake for improved dependency management
   and cross-platform build.
@@ -81,13 +81,13 @@ President.
 - Software Engineer          | Lambent Technologies Pvt. Ltd., Nagpur     | Mar' 04 - Mar' 05
 - Computer Lexicon Associate | MGAHV, Lucknow                             | Dec' 02 - Feb' 04
 
-### Major Projects:
-- **Post-trade feeds:** Developed and maintained Post-trade feed applications
-    that follow the Straight Through Process (STP) to retrieve trade data from
-    Bloomberg and other electronic exchanges using the FIX Protocol.
-- **FixEngine:** Developed and maintained FixEngine, a generic library that
-    implements FIX Protocol 4.2, manages the session-level protocol and
-    providing an interface for application messages.
+- Major Projects:
+    - *Post-trade feeds:* Developed and maintained Post-trade feed applications
+      that follow the Straight Through Process (STP) to retrieve trade data from
+      Bloomberg and other electronic exchanges using the FIX Protocol.
+    - *FixEngine:* Developed and maintained FixEngine, a generic library that
+      implements FIX Protocol 4.2, manages the session-level protocol and
+      providing an interface for application messages.
 
 # Education:
 Master of Computer Applications | GHRIIT Nagpur University, India | Year 2002
