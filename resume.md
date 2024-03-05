@@ -1,7 +1,7 @@
 # Pralay Patoria
 **Mobile:** 908-365-4050  
-**Email:** [patoria.js@gmail.com](mailto:patoria.js@gmail.com)  
-**LinkedIn Profile:** [LinkedIn Profile](https://www.linkedin.com/in/pralay-patoria-a5966a31/)  
+[patoria.js@gmail.com](mailto:patoria.js@gmail.com)  
+[LinkedIn Profile](https://www.linkedin.com/in/pralay-patoria-a5966a31/)  
 
 ## Objective
 Highly skilled and accomplished Senior Software Developer with around 18 years
@@ -21,7 +21,7 @@ President.
 
 ## Technical Skills
 ```
-- Languages                               : C++, Python
+- Languages                               : C++, Python, Rust (Beginner)
 - Frameworks/Libraries                    : STL, BOOST, POCO, GTest, GMock, Catch2, FakeIt
 - Messaging Systems and Network Protocols : UM/LBM, EMS, TIBCO Rendezvous, TCP/IP, UDP
 - Scripting                               : Perl, Bash, Lua
