@@ -1,6 +1,6 @@
 # Pralay Patoria
 **Mobile:** 908-365-4050  
-[patoria.js@gmail.com](mailto:patoria.js@gmail.com)  
+[ppatoria.jp@gmail.com](mailto:ppatoria.jp@gmail.com)  
 [LinkedIn Profile](https://www.linkedin.com/in/pralay-patoria-a5966a31/)  
 
 ## Objective
